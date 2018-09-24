@@ -1,0 +1,3 @@
+# PySiren
+
+documentation coming eventually
